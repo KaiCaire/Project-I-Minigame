@@ -1,0 +1,5 @@
+﻿  main.cpp
+C:\Users\marco\Desktop\WindowSDL  v2\main.cpp(145,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\marco\Desktop\WindowSDL  v2\main.cpp(146,34): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\marco\Desktop\WindowSDL  v2\main.cpp(239,2): warning C4551: function call missing argument list
+  WindowSDL.vcxproj -> C:\Users\marco\Desktop\WindowSDL  v2\Debug\WindowSDL.exe

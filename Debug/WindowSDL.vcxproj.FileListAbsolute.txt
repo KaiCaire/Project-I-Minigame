@@ -1,0 +1,3 @@
+C:\Users\marco\Desktop\WindowSDL\Debug\WindowSDL.exe
+C:\Users\marco\Desktop\WindowSDL  chat GPT\Debug\WindowSDL.exe
+C:\Users\marco\Desktop\WindowSDL  v2\Debug\WindowSDL.exe
